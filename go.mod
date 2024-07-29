@@ -1,4 +1,4 @@
-module github.com/imperatorofdwelling/Website-Auth
+module github.com/imperatorofdwelling/Auth
 
 go 1.22
 

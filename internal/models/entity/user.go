@@ -2,7 +2,7 @@ package entity
 
 import (
 	"github.com/google/uuid"
-	"github.com/imperatorofdwelling/Website-Auth/internal/models/enum"
+	"github.com/imperatorofdwelling/Auth/internal/models/enum"
 )
 
 type UserID uuid.UUID

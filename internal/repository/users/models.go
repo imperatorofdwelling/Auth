@@ -1,10 +1,10 @@
 package users
 
 import (
-	"github.com/imperatorofdwelling/Website-Auth/internal/models/entity"
 	"time"
 
-	"github.com/imperatorofdwelling/Website-Auth/internal/models/enum"
+	"github.com/imperatorofdwelling/Auth/internal/models/entity"
+	"github.com/imperatorofdwelling/Auth/internal/models/enum"
 )
 
 type Model struct {

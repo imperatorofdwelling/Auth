@@ -2,7 +2,9 @@ package users
 
 import (
 	"context"
-	"github.com/imperatorofdwelling/Website-Auth/internal/models/entity"
+
+	"github.com/imperatorofdwelling/Auth/internal/models/entity"
+
 	"github.com/jmoiron/sqlx"
 )
 
